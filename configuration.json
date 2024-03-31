@@ -347,6 +347,5 @@
       "type": "adblock"
     }
   ],
-  "transformations": ["Compress", "Deduplicate"],
-  "exclusions_sources": ["Filters/exclusions.txt"]
+  "transformations": ["Compress", "Deduplicate"]
 }
