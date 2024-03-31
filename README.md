@@ -123,13 +123,6 @@ The output is written to `Filters/filter.txt`.
 
 * [AdGuard Base filter cryptominers](https://raw.githubusercontent.com/AdguardTeam/AdguardFilters/master/BaseFilter/sections/cryptominers.txt)
 
-### Exception
-
-#### These lists are used to exclude domains that cause serious site breakages
-
-* [Exclusion rules](https://github.com/AdguardTeam/AdGuardSDNSFilter/blob/master/Filters/exclusions.txt)
-* [Exception rules](https://github.com/AdguardTeam/AdGuardSDNSFilter/blob/master/Filters/exceptions.txt)
-
 ### News Exchange
 
 #### These lists are used to block teaser advertisements
